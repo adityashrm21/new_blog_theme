@@ -3,8 +3,8 @@ title:              Massively
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "new_blog_theme" # the subpath of your site, e.g. /blog
+url: "https://adityashrm21.github.io" # the base hostname & protocol for your site
 
 defaults:
 - scope:
@@ -57,7 +57,7 @@ paginate: 6
 paginate_path: "new_blog_theme"
 
 jekyll-mentions:
-    base_url: https://adityashrm21.github.io/
+    base_url: "/new_blog_theme"
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
