@@ -54,10 +54,10 @@ gems:
   - jekyll-paginate
 
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/blog_new_theme"
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://adityashrm21.github.io/
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
