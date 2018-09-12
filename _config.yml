@@ -3,7 +3,7 @@ title:              Massively
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
-baseurl: "new_blog_theme" # the subpath of your site, e.g. /blog
+baseurl: "/new_blog_theme" # the subpath of your site, e.g. /blog
 url: "https://adityashrm21.github.io" # the base hostname & protocol for your site
 
 defaults:
